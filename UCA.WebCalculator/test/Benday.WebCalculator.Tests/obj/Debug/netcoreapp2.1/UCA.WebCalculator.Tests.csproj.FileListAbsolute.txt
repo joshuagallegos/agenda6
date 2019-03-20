@@ -1,0 +1,63 @@
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.deps.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.runtimeconfig.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.runtimeconfig.dev.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.csprojAssemblyReference.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.csproj.CoreCompileInputs.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.AssemblyInfoInputs.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.AssemblyInfo.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.csproj.CopyComplete
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.Views.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.Views.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.csprojAssemblyReference.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.csproj.CoreCompileInputs.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.AssemblyInfoInputs.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.AssemblyInfo.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.Views.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.Views.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.deps.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.runtimeconfig.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.runtimeconfig.dev.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.csproj.CopyComplete
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.AssemblyInfo.cs
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.dll
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.pdb
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.Views.dll
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.Views.pdb
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.deps.json
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.runtimeconfig.json
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.runtimeconfig.dev.json
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.dll
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.pdb
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.dll
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.dll
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.pdb
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.pdb
+C:\Users\chris\Desktop\JG\UCA.WebCalculator\test\Benday.WebCalculator.Tests\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Tests.csproj.CopyComplete
